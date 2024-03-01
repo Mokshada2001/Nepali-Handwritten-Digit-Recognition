@@ -1,0 +1,27 @@
+body{
+    background:beige;
+    position: relative;
+}
+h1{
+    margin:2% 0 3% 0;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+
+footer{
+    position: absolute;
+    background:gainsboro;
+    text-align: center;
+    height:50px;
+    bottom:0;
+    width:100%;
+    p{
+        padding-top:14px;
+        a{
+            font-style: italic;
+        }
+        a:hover{
+            text-decoration:none;
+        }
+    }
+    
+}
